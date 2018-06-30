@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Broadcast Receiver</string>
+
+    <string name="simple_broadcast_message">Simple Broadcast Triggered</string>
+    <string name="send_custom_broadcast_intent">Send Custom Broadcast Intent</string>
+    <string name="send_ordered_broadcast_intent">Send Ordered Broadcast Intent</string>
+
+    <string name="broadcast_message_1">Broadcast Triggered from 1st</string>
+    <string name="broadcast_message_2">Broadcast Triggered from 2nd</string>
+    <string name="broadcast_from_main_activity">Broadcast Triggered from Main Activity</string>
+
+</resources>
